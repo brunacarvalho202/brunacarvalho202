@@ -1,4 +1,4 @@
-### Olá!!! Eu sou Bruna Carvalho 👋
+### Olá!!! Eu sou Bruna Carvalho 
 
 <div align="center">
   <a href="https://github.com/brunacarvalho202">
