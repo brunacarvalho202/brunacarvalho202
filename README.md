@@ -1,4 +1,4 @@
-### Olá!!! Eu sou Bruna Carvalho 
+### Oii, eu sou a Bruna Carvalho e estou em formação pela Generation Brazil no curso de pessoa desenvolvedora Web Java Fullstack!! Seja bem vindo(a) ao meu perfil, por aqui você poderá acompanhar toda a minha evolução.
 
 <div align="center">
   <a href="https://github.com/brunacarvalho202">
