@@ -1,4 +1,4 @@
-### Oii, eu sou a Bruna Carvalho e estou em formação pela Generation Brazil no curso de pessoa desenvolvedora Web Java Fullstack!! Seja bem vindo(a) ao meu perfil, por aqui você poderá acompanhar toda a minha evolução.
+### Oii, eu sou a Bruna Carvalho, tenho 20 anos e curso ciência da computação na CESAR School. Concluí o bootcamp de pessoa desenvolvedora web java júnior pela Generation Brazil e, agora, estou em andamento com o bootcamp de front proposto pela NTT DATA. 
 
 <div align="center">
   <a href="https://github.com/brunacarvalho202">
