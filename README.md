@@ -1,4 +1,4 @@
-### Oi, eu sou a Bruna Carvalho, tenho 20 anos e curso ciência da computação na CESAR School. Concluí o bootcamp de pessoa desenvolvedora web java júnior pela Generation Brazil e, atualemnte, estou em andamento nos estudos de front com o programa ONE da oracle com alura. 
+### Oi, eu sou a Bruna Carvalho, tenho 21 anos e curso ciência da computação na CESAR School. Concluí o bootcamp de pessoa desenvolvedora web java júnior pela Generation Brazil e, atualemnte, estou em andamento nos estudos de front com o programa ONE da oracle com alura. 
 
 <div align="center">
   <a href="https://github.com/brunacarvalho202">
