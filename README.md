@@ -1,4 +1,4 @@
-### Oi, eu sou Bruna Carvalho, tenho 22 anos e curso ciência da computação na CESAR School. 
+### Oi, eu sou Bruna Carvalho, tenho 23 anos e curso ciência da computação na CESAR School. 
 
 <div align="center">
   <a href="https://github.com/brunacarvalho202">
